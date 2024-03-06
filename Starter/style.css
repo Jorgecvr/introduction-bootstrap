@@ -77,7 +77,7 @@
     text-align: center;
 }
 
-Para adicionar algum espaçamento entre todas as seções, vamos adicionar um pouco mais de estilo:
+/*Para adicionar algum espaçamento entre todas as seções, vamos adicionar um pouco mais de estilo:
 
 /* espaçando as seções */
 #about, #services, #portfolio, #contact {
